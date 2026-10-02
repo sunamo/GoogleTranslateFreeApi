@@ -1,4 +1,9 @@
 # GoogleTranslateFreeApi
+
+## Short description
+
+Fork knihovny pro bezplatný překlad textu přes Google Translate. Obsahuje GoogleTranslator, generátor tokenů a ukázkový projekt. Cílí na .NET Standard 1.1, kód je cizí.
+
 Api for free text translation using Google translate.
 
 | 	                   |  	Badge		|
