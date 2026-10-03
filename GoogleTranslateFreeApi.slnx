@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GoogleTranslateFreeApi.Examples/GoogleTranslateFreeApi.Examples.csproj" />
+  <Project Path="GoogleTranslateFreeApi/GoogleTranslateFreeApi.csproj" />
+</Solution>
